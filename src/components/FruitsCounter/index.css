@@ -1,0 +1,32 @@
+.bgc {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 10px;
+  background-size: cover;
+}
+
+.bottom-bgc {
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  background-size: cover;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+.image-button-details-col {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin-left: 150px;
+  margin-top: 30px;
+}
+.setting-in-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
